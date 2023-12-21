@@ -1,5 +1,5 @@
 import winedata from "./Data/WineData.json";
-import FlavanoidsGamma from "./FlavanoidsGamma";
+import FlavanoidsGamma from "./Page/FlavanoidsGamma";
 
 function App() {
   return (

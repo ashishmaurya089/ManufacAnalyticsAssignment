@@ -15,11 +15,16 @@ Data set is presents inside WineData.json.
 This React component calculates and displays on table mean, median, and mode for both "Flavanoids" and "Gamma."
 
 # In Flavanoids property
-calculate the class-wise mean, median, mode of “Flavanoids” for the entire dataset.
+calculate the class-wise mean, median, mode of “Flavanoids” for the entire dataset.!
+
+# Flavanoids Table Screenshot of output.   
+[Flavanoids Solution Table Screenshot](src/Images/FlavanoidstableSnap.png)
 
 # In Gamma property
-calculated as Gamma = (Ash * Hue) / Magnesium.Thereafter, calculate the class-wise mean, median, mode of “Gamma” for the entire dataset
+calculated as Gamma = (Ash * Hue) / Magnesium.Thereafter, calculate the class-wise mean, median, mode of “Gamma” for the entire dataset.
 
+# Gamma Table Screenshot of output.
+![Gamma Solution Table Screenshot](src/Images/GammaSnap.png)
 
 
 # There is an error of provided data**************************
