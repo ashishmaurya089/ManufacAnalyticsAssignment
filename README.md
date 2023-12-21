@@ -1,4 +1,5 @@
 # To get started with the project, clone the repository from github.
+https://github.com/ashishmaurya089/ManufacAnalyticsAssignment.git
 
 # Run this command to install the required dependencies using Yarn
 yarn install
